@@ -1,0 +1,27 @@
+system:
+  calibration:
+    duration_seconds: 5
+    hold_time_seconds: 5
+  camera:
+    focus: 130
+    index: 0
+    roi:
+      h: 71
+      w: 229
+      x: 470
+      y: 416
+    threshold: 110
+  exe_path: .\bin\FESController.exe
+  com_port: COM4
+  stimulation_interval_ms: 50
+  pipe_name: \\.\pipe\FESLOOP
+  session:
+    pulse_width_us: 200
+    target_percentage: 0.40
+    tolerance_percentage: 0.15
+    session_duration_seconds: 90
+    grace_period_seconds: 3 # Time to reach target before FES starts
+    fes_min_factor: 1.0 # Multiplier for starting intensity
+    ramp_rate_ma_per_second: 1 # mA increase per second
+    fes_min_ma: 0
+    fes_max_ma: 0
