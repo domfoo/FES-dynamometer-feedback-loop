@@ -11,8 +11,8 @@
 
 #include <src/smpt_ll_client.h>
 
-// Correctly escaped pipe name: \\.\pipe\UnityToCPipe
-#define PIPE_NAME L"\\\\.\\pipe\\UnityToCPipe"
+// Correctly escaped pipe name: \\.\pipe\FESLOOP
+#define PIPE_NAME L"\\\\.\\pipe\\FESLOOP"
 #define BUFFER_SIZE 1024
 #define MAX_FILENAME_LENGTH 200
 
