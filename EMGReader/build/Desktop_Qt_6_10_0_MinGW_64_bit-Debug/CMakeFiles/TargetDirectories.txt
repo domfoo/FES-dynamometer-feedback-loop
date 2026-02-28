@@ -1,0 +1,16 @@
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/smpt.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/EMGReader.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/EMGReader_lupdate.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/update_translations.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/EMGReader_lrelease.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/release_translations.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/smpt_autogen_timestamp_deps.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/smpt_autogen.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/EMGReader_autogen_timestamp_deps.dir
+C:/Users/zhang/Desktop/FUAS/WiSe2526/MMI/EMGReader/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/EMGReader_autogen.dir
